@@ -1,7 +1,6 @@
 # Excel_Project
-## Udemy Courses
+## Loan Management Tracker
 - Excel
-- Power BI
 
-Analyzing 4 Udemy Courses
+Analyzing the performance of loan types in Kenya
 read me
